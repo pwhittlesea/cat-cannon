@@ -1,5 +1,5 @@
 init:
-	pip-3.2 install -r requirements.txt
+	pip3 install -r requirements.txt
 
 test:
 	nosetests test_cat_cannon.py
